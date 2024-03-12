@@ -1,0 +1,8 @@
+.vscode/
+__pycache__/
+.env
+wandb
+*.json
+*.jsonlines
+*.csv
+.venv
